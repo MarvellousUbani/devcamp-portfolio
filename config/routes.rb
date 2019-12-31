@@ -12,4 +12,5 @@ Rails.application.routes.draw do
   end
 
   root to:'pages#home'
+  resources :topics
 end
