@@ -1,5 +1,8 @@
 class Portfolio < ApplicationRecord
 	include Placeholder
+
+	has_many :technologies
+	
 	def self.react
   	where(subtitle: 'React')
   end
