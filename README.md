@@ -12,6 +12,8 @@
 #### Code Example
 
 ```ruby
-  Some Ruby Code Here
+  def do
+    puts "completed"
+  end
 
 ```
