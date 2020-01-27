@@ -19,4 +19,4 @@
 ```
 
 ## Contributor
-[Marvellous Ubani](https://github.com/MarvellousUbani)
+[Marvellous Michaels Ubani](https://github.com/MarvellousUbani)
