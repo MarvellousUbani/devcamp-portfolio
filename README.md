@@ -18,5 +18,5 @@
 
 ```
 
-## Contributor
+## Contributors
 [Marvellous Michaels Ubani](https://github.com/MarvellousUbani)
