@@ -18,5 +18,6 @@
 
 ```
 
-## Contributors
+
+## Authors
 [Marvellous Michaels Ubani](https://github.com/MarvellousUbani)
