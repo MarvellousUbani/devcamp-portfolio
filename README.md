@@ -9,15 +9,6 @@
 - Portfolio
 - Drag & Drop Interface
 
-#### Code Example
-
-```ruby
-  def do
-    puts "completed"
-  end
-
-```
-
 
 ## Contributor
 [Marvellous Michaels Ubani](https://github.com/MarvellousUbani)
